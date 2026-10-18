@@ -1,0 +1,5 @@
+estrategia,% casos con regla activa,cobertura del catálogo (top-10)
+Reglas (lift),1.0,0.77
+Reglas (confianza),1.0,0.71
+Híbrido (lift > 2.0),0.9905561385099685,0.77
+Más gustados (línea base),0.0,0.41

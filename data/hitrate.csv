@@ -1,0 +1,17 @@
+N,estrategia,hitrate
+1,Reglas (lift),0.12172088142707241
+3,Reglas (lift),0.24606505771248688
+5,Reglas (lift),0.33683105981112277
+10,Reglas (lift),0.4706190975865687
+1,Reglas (confianza),0.17681007345225602
+3,Reglas (confianza),0.2848898216159496
+5,Reglas (confianza),0.3357817418677859
+10,Reglas (confianza),0.4349422875131165
+1,Híbrido (lift > 2.0),0.12119622245540398
+3,Híbrido (lift > 2.0),0.24501573976915006
+5,Híbrido (lift > 2.0),0.3357817418677859
+10,Híbrido (lift > 2.0),0.4695697796432319
+1,Más gustados (línea base),0.04302203567681007
+3,Más gustados (línea base),0.12906610703043023
+5,Más gustados (línea base),0.16421825813221405
+10,Más gustados (línea base),0.21878279118572927

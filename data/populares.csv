@@ -1,0 +1,101 @@
+libro,soporte,lectores,autor
+The Hunger Games,0.35814621142212655,3493,Suzanne Collins
+Harry Potter and the Sorcerer's Stone,0.35558289756997846,3468,J.K. Rowling
+To Kill a Mockingbird,0.30534194606787657,2978,Harper Lee
+Harry Potter and the Prisoner of Azkaban,0.26791756382651494,2613,J.K. Rowling
+Harry Potter and the Deathly Hallows,0.2645339895416795,2580,J.K. Rowling
+Harry Potter and the Goblet of Fire,0.2604326873782426,2540,J.K. Rowling
+Harry Potter and the Half-Blood Prince,0.2566389828770635,2503,J.K. Rowling
+Harry Potter and the Order of the Phoenix,0.249359171536963,2432,J.K. Rowling
+Catching Fire,0.24679585768481493,2407,Suzanne Collins
+Harry Potter and the Chamber of Secrets,0.23859325335794115,2327,J.K. Rowling
+The Hobbit,0.2337742233159028,2280,J.R.R. Tolkien
+The Help,0.21470316825592126,2094,Kathryn Stockett
+1984,0.2080385522403363,2029,George Orwell
+Pride and Prejudice,0.20444991284732902,1994,Jane Austen
+The Girl with the Dragon Tattoo,0.20260432687378244,1976,Stieg Larsson
+The Fellowship of the Ring,0.2019891315492669,1970,J.R.R. Tolkien
+The Great Gatsby,0.20116887111657952,1962,F. Scott Fitzgerald
+Mockingjay,0.20024607812980622,1953,Suzanne Collins
+The Kite Runner,0.1961447759663693,1913,Khaled Hosseini
+"The Lion, the Witch, and the Wardrobe",0.1827130113811135,1782,C.S. Lewis
+Animal Farm,0.1808674254075669,1764,George Orwell
+A Game of Thrones,0.17871424177176254,1743,George R.R. Martin
+The Diary of a Young Girl,0.17328001640520865,1690,Anne Frank
+The Fault in Our Stars,0.1711268327694043,1669,John Green
+The Catcher in the Rye,0.17102430021531836,1668,J.D. Salinger
+Divergent,0.16661540038962372,1625,Veronica Roth
+The Giver,0.1621039680098431,1581,Lois Lowry
+Gone Girl,0.1615913052394135,1576,Gillian Flynn
+The Book Thief,0.16118117502306983,1572,Markus Zusak
+Lord of the Flies,0.15615707987285962,1523,William Golding
+Memoirs of a Geisha,0.15328616835845382,1495,Arthur Golden
+Of Mice and Men,0.15164564749307904,1479,John Steinbeck
+Angels & Demons,0.149082333640931,1454,Dan Brown
+Jane Eyre,0.14713421511329847,1435,Charlotte Brontë
+The Da Vinci Code,0.14539116169383778,1418,Dan Brown
+The Hitchhiker's Guide to the Galaxy,0.14467343381523634,1411,Douglas Adams
+Twilight,0.14467343381523634,1411,Stephenie Meyer
+Little Women,0.1444683687070645,1409,Louisa May Alcott
+Ender's Game,0.14395570593663487,1404,Orson Scott Card
+Water for Elephants,0.1381113503537373,1347,Sara Gruen
+Fahrenheit 451,0.13698349225879217,1336,Ray Bradbury
+Charlotte's Web,0.13595816671793295,1326,E.B. White
+Life of Pi,0.1348303086229878,1315,Yann Martel
+Where the Sidewalk Ends,0.13134420178406644,1281,Shel Silverstein
+The Time Traveler's Wife,0.12837075771557468,1252,Audrey Niffenegger
+The Lovely Bones,0.12785809494514508,1247,Alice Sebold
+Romeo and Juliet,0.12673023685019993,1236,William Shakespeare
+A Clash of Kings,0.12303906490310673,1200,George R.R. Martin
+Brave New World,0.12006562083461499,1171,Aldous Huxley
+A Thousand Splendid Suns,0.11832256741515432,1154,Khaled Hosseini
+The Girl Who Played with Fire,0.1178099046447247,1149,Stieg Larsson
+Slaughterhouse-Five,0.1178099046447247,1149,Kurt Vonnegut Jr.
+The Curious Incident of the Dog in the Night-Time,0.11534912334666257,1125,Mark Haddon
+A Storm of Swords,0.11483646057623295,1120,George R.R. Martin
+The Adventures of Huckleberry Finn,0.11452886291397518,1117,Mark Twain
+A Wrinkle in Time,0.11370860248128781,1109,Madeleine L'Engle
+Gone with the Wind,0.11258074438634266,1098,Margaret Mitchell
+The Secret Life of Bees,0.1118630165077412,1091,Sue Monk Kidd
+Wuthering Heights,0.10960730031785092,1069,Emily Brontë
+The Giving Tree,0.10888957243924946,1062,Shel Silverstein
+Insurgent,0.10858197477699169,1059,Veronica Roth
+The Two Towers,0.10847944222290577,1058,J.R.R. Tolkien
+The Return of the King,0.10724905157387471,1046,J.R.R. Tolkien
+The Girl on the Train,0.10704398646570286,1044,Paula Hawkins
+The Golden Compass,0.10694145391161694,1043,Philip Pullman
+The Secret Garden,0.10437814005946888,1018,Frances Hodgson Burnett
+Night,0.1039680098431252,1014,Elie Wiesel
+The Handmaid's Tale,0.10376294473495334,1012,Margaret Atwood
+The Little Prince,0.1007895006664616,983,Antoine de Saint-Exupéry
+Where the Wild Things Are,0.10068696811237568,982,Maurice Sendak
+The Alchemist,0.10058443555828976,981,Paulo Coelho
+The Girl Who Kicked the Hornet's Nest,0.10037937045011791,979,Stieg Larsson
+The Shining,0.10017430534194607,977,Stephen King
+The Lightning Thief,0.10007177278786014,976,Rick Riordan
+The Princess Bride,0.09884138213882908,964,William Goldman
+All the Light We Cannot See,0.09873884958474316,963,Anthony Doerr
+Anne of Green Gables,0.09853378447657131,961,L.M. Montgomery
+Sense and Sensibility,0.09771352404388393,953,Jane Austen
+The Grapes of Wrath,0.09627806828668102,939,John Steinbeck
+Catch-22,0.09443248231313442,921,Joseph Heller
+Hamlet,0.0934071567722752,911,William Shakespeare
+One Flew Over the Cuckoo's Nest,0.09197170101507228,897,Ken Kesey
+The Stand,0.09135650569055676,891,Stephen King
+The Martian,0.09094637547421307,887,Andy Weir
+Me Before You,0.09074131036604122,885,Jojo Moyes
+Eclipse,0.09053624525786938,883,Stephenie Meyer
+Frankenstein,0.09043371270378345,882,Mary Wollstonecraft Shelley
+The Adventures of Tom Sawyer,0.09012611504152568,879,Mark Twain
+The Road,0.08992104993335384,877,Cormac McCarthy
+My Sister's Keeper,0.08899825694658053,868,Jodi Picoult
+The Picture of Dorian Gray,0.08848559417615093,863,Oscar Wilde
+Jurassic Park,0.08776786629754947,856,Michael Crichton
+The Lord of the Rings,0.0874602686352917,853,J.R.R. Tolkien
+Charlie and the Chocolate Factory,0.08715267097303393,850,Roald Dahl
+Breaking Dawn,0.08643494309443248,843,Stephenie Meyer
+The Poisonwood Bible,0.08633241054034656,842,Barbara Kingsolver
+The Glass Castle,0.08581974776991695,837,Jeannette Walls
+The Pillars of the Earth,0.08540961755357326,833,Ken Follett
+Dune,0.08387162924228443,818,Frank Herbert
+The Count of Monte Cristo,0.08356403158002666,815,Alexandre Dumas
